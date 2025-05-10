@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "cstdlib": "c",
+        "driver_led.h": "c",
+        "bit": "c",
+        "compare": "c",
+        "limits": "c",
+        "new": "c",
+        "driver_timer.h": "c"
+    }
+}
